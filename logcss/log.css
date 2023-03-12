@@ -1,0 +1,14 @@
+form {
+    margin: auto;
+    border-color: rgb(0, 0, 0);
+    border: 3px coral;
+    line-height: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%)
+}
+a {
+    padding-inline-start: 64.10px;
+    
+}
